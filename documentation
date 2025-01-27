@@ -1,0 +1,9 @@
+1. First I have created a AWS sandbox in the cloudguru website
+2. created a EC2 instance for terraform in us-east-1 region
+3. installed terraform and git in the ec2 instance.
+4. created a vpc and ec2 directory for writing terraform code
+5. In vpc directory i have created all the code related to provisioning VPC, private & public subnets, Internet gateways, Security Groups, routes, and all the code related 
+to on how to connect internet gateways, subnets, VPC.
+6. In EC2 directory i have executed all the code related nginx ec2 server creation
+7. Now after Nginx server installation, went inside the server and installed nginx server and created a sample webpage.
+8. now pushed all the above mentioned data into public repository.
